@@ -1,8 +1,2 @@
-# Expo Quickstart
-I grew rather tired of having to go through the exact same steps each time I wanted to set up an Expo project, so I'm making a quickstart repo.
-
-It includes:
-- Expo Router
-- TypeScript
-- Google Fonts integration (currently imports Inter)
-- SVG support (`import SampleSVG from "./sample.svg"`)
+# Epic System
+This is the system that implements a new guest services workflow. It uses MongoDB's Realm database, which syncs with an Atlas instance.
